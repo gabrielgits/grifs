@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Grifs</string>
+
+    <string-array name="GrifsCategorias">
+        <item>Calçados</item>
+        <item>Membros Inferiores</item>
+        <item>Membros Superioires</item>
+    </string-array>
+
+    <string-array name="GrifsEstados">
+        <item>Disponivel</item>
+        <item>Lavandaria</item>
+        <item>Suja</item>
+        <item>Nova</item>
+    </string-array>
+
+</resources>
